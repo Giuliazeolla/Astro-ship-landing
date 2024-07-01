@@ -1,0 +1,14 @@
+header .hero__left {
+    padding-right: 3rem;
+}
+
+header .hero__left h1 {
+    font-size: 4.5rem;
+    line-height: 4.5rem;
+}
+
+header .hero__left p {
+    font-size: 1.25rem;
+    line-height: 2rem;
+    margin: 25px auto;
+}

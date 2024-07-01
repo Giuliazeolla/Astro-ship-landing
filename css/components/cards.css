@@ -1,0 +1,35 @@
+.card-info .card-info__icon {
+    padding: 0.75rem;
+}
+
+.card-info .card-info__icon .card-info__icon-svg {
+    background-color: black;
+    border-radius: 50%;
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-info .card-info__icon .card-info__icon-svg svg {
+    width: 1rem;
+    height: 1rem;
+    fill: white;
+}
+
+.card-info .card-info__content {
+    padding: 0.75rem;
+}
+
+.card-info .card-info__content h5 {
+    font-size: 1.125rem;
+}
+
+.card-info .card-info__content p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-top: 0.65rem;
+}
+
+/*  33.33% -> 33% + 0.33%  */
