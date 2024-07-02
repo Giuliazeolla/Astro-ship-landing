@@ -39,6 +39,10 @@
     gap: 0.5rem;
 }
 
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
 /* Colors */
 .color-primary {
     color: var(--color-primary);
@@ -46,4 +50,26 @@
 
 .color-secondary {
     color: var(--color-secondary);
+}
+
+.color-white {
+    color: white;
+}
+
+/* Background */
+.bg-primary {
+    background-color: var(--color-primary);;
+}
+
+.bg-secondary {
+    background-color: var(--color-secondary);;
+}
+
+/* Weight */
+.font-normal {
+    font-weight: 400;   
+}
+
+.font-bold {
+    font-weight: 700;
 }

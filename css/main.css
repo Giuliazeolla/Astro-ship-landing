@@ -17,6 +17,10 @@ a {
     text-decoration: none;
 }
 
+a:not(.btn):hover {
+    text-decoration: underline;
+}
+
 p, a, span, button {
     color: var(--color-secondary);
     font-size: 1rem; /* 0.85rem -> 13.6px */

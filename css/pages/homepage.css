@@ -16,3 +16,33 @@ section#sec-1 .sec-1__content > div {
     flex: 33%;
     margin-top: 2rem;
 }
+
+section#sec-2 .sec-2__logos {
+    gap: 5rem;
+    margin: 50px auto;
+}
+
+section#sec-2 .sec-2__logos .sec-2__logos-item svg {
+    width: 3rem;
+    height: 3rem;
+}
+
+section#sec-3 {
+    margin-top: 50px !important;
+}
+
+section#sec-3 .sec-3__banner {
+    border-radius: 0.6rem;
+    padding: 4.5rem 5rem;
+}
+
+section#sec-3 .sec-3__banner h2 {
+    font-size: 3.5rem;
+}
+
+section#sec-3 .sec-3__banner p {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin: 1rem auto 1.5rem auto;
+    color: #94a3b8;
+}

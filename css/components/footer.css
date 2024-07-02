@@ -1,0 +1,13 @@
+footer {
+    margin-bottom: 100px !important;
+}
+
+footer .footer__top {
+    font-size: 0.85rem;
+}
+
+footer .footer__bottom, 
+footer .footer__bottom * {
+    margin-top: 0.25rem;
+    font-size: 0.70rem;
+}
