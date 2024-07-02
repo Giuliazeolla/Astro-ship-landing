@@ -8,6 +8,7 @@
 
 /* Pages */
 @import url('./pages/homepage.css');
+@import url('./pages/about.css');
 
 /* Components */
 @import url('./components/buttons.css');

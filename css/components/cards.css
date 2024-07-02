@@ -32,4 +32,37 @@
     margin-top: 0.65rem;
 }
 
+.card-about {
+    border-radius: 0.4rem;
+    flex: 32%;
+}
+
+.card-about .card-about__header {
+    height: 272px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.card-about .card-about__header img {
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+}
+
+.card-about .card-about__body {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-about .card-about__body h5 {
+    font-size: 1.125rem;
+}
+
+.card-about .card-about__body p {
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+}
+
 /*  33.33% -> 33% + 0.33%  */

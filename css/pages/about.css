@@ -1,0 +1,28 @@
+section#sec-1 h1 {
+    font-size: 3rem;
+}
+
+section#sec-1 p {
+    font-size: 1.125rem;
+    margin-top: 1rem;
+}
+
+section#sec-2 .sec-2__wrapper {
+    width: 100%;
+    max-width: var(--variant-max-width);
+}
+
+section#sec-2 .sec-2__title h2 {
+    font-size: 2rem;
+}
+
+section#sec-2 .sec-2__title p {
+    font-size: 1.125rem;
+    margin-top: 1rem;
+    line-height: 2rem;
+}
+
+section#sec-2 .sec-2__cards {
+    gap: 1.33%;
+    margin-top: 2rem;
+}
