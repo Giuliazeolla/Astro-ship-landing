@@ -9,6 +9,7 @@
 /* Pages */
 @import url('./pages/homepage.css');
 @import url('./pages/about.css');
+@import url('./pages/blog.css');
 
 /* Components */
 @import url('./components/buttons.css');
